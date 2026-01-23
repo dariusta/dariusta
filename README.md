@@ -7,9 +7,6 @@ I run [M3rcury Ventures](https://darius.tabatab.ai), a venture studio focused on
 ## What I'm Building
 
 🎬 **Brandzy** — AI-powered video content for SMBs ($99-299/mo)  
-📱 **BeatAcne.ai** — AI skincare analysis iOS app  
-🤖 **M3rcury Agent** — AI receptionist SaaS  
-🚗 **Precision Detail** — Luxury auto detailing ($10K/mo revenue)
 
 ## Tech Stack
 
