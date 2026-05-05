@@ -2,11 +2,7 @@
 
 **17-year-old founder building AI-powered software companies.**
 
-I run [M3rcury Ventures](https://darius.tabatab.ai), a venture studio focused on AI SaaS. Currently scaling [Brandzy](https://brandzy.ai) — AI video generation for local businesses.
-
-## What I'm Building
-
-🎬 **Brandzy** — AI-powered video content for SMBs ($99-299/mo)  
+I run [M3rcury Ventures](https://darius.tabatab.ai), a venture studio focused on AI SaaS.
 
 ## Tech Stack
 
