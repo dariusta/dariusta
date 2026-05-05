@@ -1,6 +1,6 @@
 # Hey, I'm Darius 👋
 
-**17-year-old founder building AI-powered software companies.**
+**18-year-old founder building AI-powered software companies.**
 
 I run [M3rcury Ventures](https://darius.tabatab.ai), a venture studio focused on AI SaaS.
 
